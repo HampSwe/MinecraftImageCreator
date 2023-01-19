@@ -1,2 +1,2 @@
 # MinecraftImageCreator
-A tool that can re-create png-images in Minecraft
+A tool that can create png-images in Minecraft
