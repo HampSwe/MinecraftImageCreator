@@ -1,0 +1,118 @@
+127, 178, 56
+Grass Block, Slime Block
+247, 233, 163
+Birch Planks, Sand, Birch Log [vertical], Birch Stripped Log, Birch Wood, Birch Stripped Wood, Birch Sign, Birch Pressure Plate, Birch Trapdoor, Birch Stairs, Birch Slab, Birch Fence Gate, Birch Fence, Birch Door, Sandstone, Sandstone Slab, Chiseled Sandstone, Cut Sandstone, Cut Sandstone Slab, Smooth Sandstone, Sandstone All variants, Sandstone all Slabs, Sandstone all stairs, Sandstone all walls, Glowstone, End Stone, End Stone Bricks, End Stone Brick Slab, End Stone Bricks stairs, End Stone Bricks wall, Bone Block, Turtle Egg, Scaffolding, Candle
+199, 199, 199
+Cobweb, Mushroom Stem, Bed [head], White Candle
+255, 0, 0
+TNT, Lava, Fire, Redstone Block
+160, 160, 255
+Packed Ice, Frosted Ice, Ice, Blue Ice
+167, 167, 167
+Iron Block, Iron Door, Brewing Stand, Heavy Weighted Pressure Plate, Iron Trapdoor, Lantern, Anvil, Anvil all damage levels, Grindstone, Soul Fire Lantern, Lodestone
+0, 124, 0
+Fern, Sapling, Flowers, Wheat, Sugar Cane, Pumpkin Stem, Melon Stem, Lily Pad, Cocoa, Carrots, Potatoes, Beetroots, Sweet Berry Bush, Grass, Vines, Leaves, Cactus, Bamboo, Cave Vines, Spore Blossom, Flowering, zalea, Dripleaf, Dripleaf big and small
+255, 255, 255
+Snow Block, Snow, White, White Bed [foot], White Wool, White Stained Glass, White Carpet, White Shulker Box, White Glazed Terracotta, White Concrete, White Concrete Powder, Powder Snow
+164, 168, 184
+Clay, Infested Block, Infested Block not including infested Deepslate
+151, 109, 77
+Dirt, Coarse Dirt, Farmland, Dirt Path, Granite, Granite Slab, Granite stairs, Granite wall, Polished Granite, Polished Granite Slab, Polished Granite stairs, Jungle, Jungle Planks, Jungle Log [vertical], Jungle Stripped Log, Jungle Wood, Jungle Stripped Wood, Jungle Sign, Jungle Pressure Plate, Jungle Trapdoor, Jungle Stairs, Jungle Slab, Jungle Fence Gate, Jungle Fence, Jungle Door, Jukebox, Brown Mushroom Block, Rooted Dirt, Hanging Roots
+112, 112, 112
+Stone, Stone Slab, Stone stairs, Andesite, Andesite Slab, Andesite stairs, Andesite wall, Polished Andesite, Polished Andesite Slab, Polished Andesite stairs, Cobblestone, Cracked Stone Bricks, Chiseled Stone Bricks, Mossy Stone Bricks, Mossy Stone Brick Slab, Cobblestone Slab, Cobblestone stairs, Cobblestone wall, Bedrock, Gold Ore, Iron Ore, Coal Ore, Lapis Ore, Dispenser, Mossy Cobblestone, Mossy Cobblestone Slab, Mossy Cobblestone stairs, Mossy Cobblestone wall, Spawner, Diamond Ore, Furnace, Stone Pressure Plate, Redstone Ore, Stone Bricks, Stone Brick Slab, Stone Bricks all variants, Stone Bricks all Slabs, Stone Bricks all stairs, Stone Bricks all walls, Emerald Ore, Ender Chest, Dropper, Smooth Stone, Smooth Stone Slab, Observer, Smoker, Blast Furnace, Stonecutter, Sticky Piston, Piston, Piston Head, Gravel, Acacia Log, Acacia Log side, Cauldron, Cauldron including cauldrons with water, Cauldron lava, Cauldron or powdered snow, Hopper, Copper Ore
+143, 119, 72
+Oak Planks, Oak Log [vertical], Oak Stripped Log, Oak Wood, Oak Stripped Wood, Oak Sign, Oak Door, Oak Pressure Plate, Oak Fence, Oak Trapdoor, Oak Fence Gate, Oak Slab, Oak Stairs, Note Block, Bookshelf, Chest, Crafting Table, Trapped Chest, Daylight Detector, Loom, Barrel, Cartography Table, Fletching Table, Lectern, Smithing Table, Composter, Bamboo Sapling, Dead Bush, Petrified Oak Slab, Beehive, Banners, Banners all colors, Banners when not as markers
+255, 252, 245
+Diorite, Diorite stairs, Diorite Slab, Diorite wall, Polished Diorite, Polished Diorite stairs, Polished Diorite Slab, Birch Log, Birch Log side, Quartz Block, Quartz Slab, Chiseled Quartz Block, Quartz Bricks, Quartz Pillar, Quartz Block all variants, Quartz Block all Slabs, Quartz Block all stairs, Sea Lantern, Target
+216, 127, 51
+Acacia Planks, Acacia Log [vertical], Acacia Stripped Log, Acacia Stripped Wood, Acacia Sign, Acacia Trapdoor, Acacia Slab, Acacia Stairs, Acacia Pressure Plate, Acacia Fence Gate, Acacia Fence, Acacia Door, Red Sand, Orange, Orange Wool, Honey Comb Block, Orange Carpet, Orange Shulker Box, Orange Bed [foot], Orange Stained Glass, Orange Glazed Terracotta, Orange Concrete, Orange Concrete Powder, Orange Candle, Pumpkin, Carved Pumpkin, Jack o'Lantern, Terracotta, Red Sandstone, Red Sandstone Slab, Cut Red Sandstone, Cut Red Sandstone Slab, Smooth Red Sandstone, Chiseled Red Sandstone, Red Sandstone all variants, Red Sandstone all stairs, Red Sandstone all Slabs, Red Sandstone all walls, Honey Block, Honeycomb Block, Copper Block, Copper Block all cut, Copper Block waxed, Copper Block stair, Copper Block all Slab variants, Lightning Rod, Raw Copper Block
+178, 76, 216
+Magenta Wool, Magenta Carpet, Magenta Shulker Box, Magenta Bed [foot], Magenta Stained Glass, Magenta Glazed Terracotta, Magenta Concrete, Magenta Concrete Powder, Magenta Candle, Purpur Block, Purpur Pillar, Purpur all variants, Purpur Slab, Purpur stairs
+102, 153, 216
+Light Blue Wool, Light Blue Carpet, Light Blue Shulker Box, Light Blue Bed [foot], Light Blue Stained Glass, Light Blue Glazed Terracotta, Light Blue Concrete, Light Blue Concrete Powder, Light Blue Candle, Soul Fire
+229, 229, 51
+Sponge, Wet Sponge, Yellow, Yellow Wool, Yellow Carpet, Yellow Shulker Box, Yellow Bed [foot], Yellow Stained Glass, Yellow Glazed Terracotta, Yellow Concrete, Yellow Concrete Powder, Yellow Candle, Hay Bale, Horn Coral, Horn Coral Block, Horn Coral, Horn Coral Fan, Bee Nest
+127, 204, 25
+Lime Wool, Lime Carpet, Lime Shulker Box, Lime Bed [foot], Lime Stained Glass, Lime Glazed Terracotta, Lime Concrete, Lime Concrete Powder, Lime Candle, Melon
+242, 127, 165
+Pink Wool, Pink Carpet, Pink Shulker Box, Pink Bed [foot], Pink Stained Glass, Pink Glazed Terracotta, Pink Concrete, Pink Concrete Powder, Pink Candle, Brain Coral, Brain Coral Block, Brain Coral, Brain Coral Fan
+76, 76, 76
+Acacia Wood, Gray Wool, Gray Carpet, Gray Shulker Box, Gray Bed [foot], Gray Stained Glass, Gray Glazed Terracotta, Gray Concrete, Gray Concrete Powder, Gray Candle, Dead Tube Coral Block, Dead Brain Coral Block, Dead Bubble Coral Block, Dead Fire Coral Block, Dead Horn Coral Block, Tinted Glass
+153, 153, 153
+Light Gray Wool, Light Gray Carpet, Light Gray Shulker Box, Light Gray Bed [foot], Light Gray Stained Glass, Light Gray Banner, Light Gray Glazed Terracotta, Light Gray Concrete, Light Gray Concrete Powder, Light Gray Candle, Structure Block, Jigsaw Block
+76, 127, 153
+Cyan Wool, Cyan Carpet, Cyan Shulker Box, Cyan Bed [foot], Cyan Stained Glass, Cyan Glazed Terracotta, Cyan Concrete, Cyan Concrete Powder, Cyan Candle, Prismarine, Prismarine Slab, Prismarine stairs, Prismarine wall, Warped, Warped Roots, Warped Fungus, Twisting Vines, Nether Sprouts, Sculk Sensor
+127, 63, 178
+Shulker Box, Purple Wool, Purple Carpet, Purple Bed [foot], Purple Stained Glass, Purple Glazed Terracotta, Purple Concrete, Purple Concrete Powder, Purple Candle, Mycelium, Chorus Plant, Chorus Flower, Repeating Command Block, Bubble Coral, Bubble Coral Block, Bubble Coral, Bubble Coral Fan, Amethyst Block, Budding Amethyst, Amethyst Cluster, Amethyst Bud, Amethyst Bud all sizes
+51, 76, 178
+Blue Wool, Blue Carpet, Blue Shulker Box, Blue Bed [foot], Blue Stained Glass, Blue Glazed Terracotta, Blue Concrete, Blue Concrete Powder, Blue Candle, Tube Coral, Tube Coral Block, Tube Coral, Tube Coral Fan
+102, 76, 51
+Dark Oak Planks, Dark Oak Log, Dark Oak Stripped Log, Dark Oak Wood, Dark Oak Stripped Wood, Dark Oak Sign, Dark Oak Pressure Plate, Dark Oak Trapdoor, Dark Oak Stairs, Dark Oak Slab, Dark Oak Fence Gate, Dark Oak Fence, Dark Oak Door, Spruce Log, Spruce Log side, Brown, Brown Wool, Brown Carpet, Brown Shulker Box, Brown Bed [foot], Brown Stained Glass, Brown Glazed Terracotta, Brown Concrete, Brown Concrete Powder, Brown Candle, Soul Sand, Command Block, Brown Mushroom, Soul Soil
+102, 127, 51
+Green Wool, Green Carpet, Green Shulker Box, Green Bed [foot], Green Stained Glass, Green Glazed Terracotta, Green Concrete, Green Concrete Powder, Green Candle, End Portal Frame, Chain Command Block, Sea Pickle, Moss Carpet, Moss Block, Dried Kelp Block
+153, 51, 51
+Red Wool, Red Carpet, Red Shulker Box, Red Bed [foot], Red Stained Glass, Red Glazed Terracotta, Red Concrete, Red Concrete Powder, Red Candle, Bricks, Brick Slab, Bricks stairs, Bricks wall, Red Mushroom Block, Nether Wart, Enchanting Table, Nether Wart Block, Fire Coral, Fire Coral Block, Fire Coral, Fire Coral Fan, Red Mushroom, Shroomlight
+25, 25, 25
+Black Wool, Black Carpet, Black Shulker Box, Black Bed [foot], Black Stained Glass, Black Glazed Terracotta, Black Concrete, Black Concrete Powder, Black Candle, Obsidian, End Portal, Dragon Egg, Coal Block, End Gateway, Basalt, Polished Basalt, Smooth Basalt, Netherite Block, Ancient Debris, Crying Obsidian, Respawn Anchor, Blackstone, Blackstone Slab, Chiseled Polished Blackstone, Polished Blackstone, Polished Blackstone Bricks, Polished Blackstone Brick Slab, Cracked Polished Blackstone Bricks, Blackstone all variants, Blackstone all stairs, Blackstone all Slabs, Blackstone all walls, Gilded Blackstone
+250, 238, 77
+Gold Block, Light Weighted Pressure Plate, Bell, Raw Gold Block
+92, 219, 213
+Diamond Block, Beacon, Prismarine Bricks, Prismarine Brick Slab, Prismarine Bricks stairs, Dark Prismarine, Dark Prismarine Slab, Dark Prismarine stairs, Conduit
+74, 128, 255
+Lapis Block
+0, 217, 58
+Emerald Block
+129, 86, 49
+Podzol, Spruce, Spruce Planks, Spruce Log [vertical], Spruce Stripped Log, Spruce Wood, Spruce Stripped Wood, Spruce Sign, Spruce Pressure Plate, Spruce Trapdoor, Spruce Stairs, Spruce Slab, Spruce Fence Gate, Spruce Fence, Spruce Door, Oak Log, Oak Log side, Jungle Log, Jungle Log side, Campfire, Soul Campfire
+112, 2, 0
+Netherrack, Nether Bricks, Nether Bricks fence, Nether Brick Slab, Nether Bricks stairs, Nether Bricks wall, Nether Bricks chiseled, Nether Bricks cracked, Nether Gold Ore, Nether Quartz Ore, Magma Block, Red Nether Bricks, Red Nether Brick Slab, Red Nether Bricks stairs, Red Nether Bricks wall, Crimson, Crimson Roots, Crimson Fungus, Weeping Vines
+209, 177, 161
+White Terracotta, Calcite
+159, 82, 36
+Orange Terracotta
+149, 87, 108
+Magenta Terracotta
+112, 108, 138
+Light Blue Terracotta
+186, 133, 36
+Yellow Terracotta
+103, 117, 53
+Lime Terracotta
+160, 77, 78
+Pink Terracotta
+57, 41, 35
+Gray Terracotta, Tuff
+135, 107, 98
+Light Gray Terracotta, Exposed Copper, Exposed Copper all cut, Exposed Copper waxed, Exposed Copper stair, Exposed Copper all Slab variants
+87, 92, 92
+Cyan Terracotta
+122, 73, 88
+Purple Terracotta, Purple Shulker Box
+76, 62, 92
+Blue Terracotta
+76, 50, 35
+Brown Terracotta, Pointed Dripstone, Dripstone Block
+76, 82, 42
+Green Terracotta
+142, 60, 46
+Red Terracotta
+37, 22, 16
+Black Terracotta
+189, 48, 49
+Crimson Nylium
+148, 63, 97
+Crimson Fence, Crimson Fence Gate, Crimson Planks, Crimson Pressure Plate, Crimson Sign, Crimson Slab, Crimson Stairs, Crimson Stem, Crimson Stripped Stem, Crimson Trapdoor, Crimson Door
+92, 25, 29
+Crimson Hyphae, Crimson Stripped Hyphae
+22, 126, 134
+Warped Nylium, Oxidized Copper, Oxidized Copper all cut, Oxidized Copper waxed, Oxidized Copper stair, Oxidized Copper all Slab variants
+58, 142, 140
+Warped Fence, Warped Fence Gate, Warped Planks, Warped Pressure Plate, Warped Sign, Warped Slab, Warped Stairs, Warped Stem, Warped Stripped Stem, Warped Trapdoor, Warped Door, Weathered Copper, Weathered Copper all cut, Weathered Copper waxed, Weathered Copper stair, Weathered Copper all Slab variants
+86, 44, 62
+Warped Hyphae, Warped Stripped Hyphae
+20, 180, 133
+Warped Wart Block
+100, 100, 100
+Deepslate, Deepslate Gold Ore, Deepslate Iron Ore, Deepslate Coal Ore, Deepslate Tiles, Deepslate Tile Slab, Chiseled Deepslate, Polished Deepslate, Polished Deepslate Slab, Deepslate Lapis Ore, Deepslate Diamond Ore, Deepslate Redstone Ore, Deepslate Emerald Ore, Deepslate Copper Ore, Deepslate Bricks, Deepslate Brick Slab, Cobbled Deepslate, Cobbled Deepslate Slab, Deepslate, Deepslate all variants, Deepslate all stairs, Deepslate all Slabs, Deepslate all walls, Infested Deepslate
+216, 175, 147
+Raw Iron Block

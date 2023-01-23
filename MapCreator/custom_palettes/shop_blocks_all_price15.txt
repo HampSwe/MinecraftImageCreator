@@ -1,0 +1,114 @@
+Dirt
+Coarse Dirt
+Podzol
+Blue Ice
+Ice
+Snow Block
+Glowstone
+Oak Wood
+Oak Log
+Oak Planks
+Oak Slab
+Spruce Wood
+Spruce Log
+Spruce Planks
+Spruce Slab
+Birch Wood
+Birch Log
+Birch Planks
+Birch Slab
+Jungle Wood
+Jungle Log
+Jungle Planks
+Jungle Slab
+Acacia Wood
+Acacia Log
+Acacia Planks
+Acacia Slab
+Dark Oak Wood
+Dark Oak Log
+Dark Oak Planks
+Dark Oak Slab
+Cobblestone
+Cobblestone Slab
+Stone
+Stone Slab
+Smooth Stone Slab
+Stone Brick Slab
+Mossy Cobblestone
+Mossy Cobblestone Slab
+Mossy Stone Brick Slab
+Andesite
+Andesite Slab
+Polished Andesite
+Polished Andesite Slab
+Diorite
+Diorite Slab
+Polished Diorite
+Polished Diorite Slab
+Granite
+Granite Slab
+Polished Granite
+Polished Granite Slab
+Sandstone Slab
+Cut Sandstone Slab
+Cut Red Sandstone Slab
+Prismarine
+Prismarine Slab
+Prismarine Brick Slab
+Dark Prismarine Slab
+Netherrack
+Nether Brick Slab
+Purpur Slab
+Brick Slab
+Crimson Slab
+Warped Slab
+Black Wool
+Gray Wool
+Blue Wool
+Cyan Wool
+Light Blue Wool
+Purple Wool
+Magenta Wool
+Light Gray Wool
+White Wool
+Pink Wool
+Red Wool
+Brown Wool
+Orange Wool
+Yellow Wool
+Lime Wool
+Green Wool
+Black Carpet
+Gray Carpet
+Blue Carpet
+Cyan Carpet
+Light Blue Carpet
+Purple Carpet
+Magenta Carpet
+Light Gray Carpet
+White Carpet
+Pink Carpet
+Red Carpet
+Brown Carpet
+Orange Carpet
+Yellow Carpet
+Lime Carpet
+Green Carpet
+Black Terracotta
+Gray Terracotta
+Blue Terracotta
+Cyan Terracotta
+Light Blue Terracotta
+Purple Terracotta
+Magenta Terracotta
+Light Gray Terracotta
+White Terracotta
+Pink Terracotta
+Red Terracotta
+Brown Terracotta
+Orange Terracotta
+Yellow Terracotta
+Lime Terracotta
+Green Terracotta
+Shroomlight

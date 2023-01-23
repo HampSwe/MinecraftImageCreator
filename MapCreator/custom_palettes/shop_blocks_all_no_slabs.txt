@@ -1,0 +1,206 @@
+Grass Block
+Dirt
+Coarse Dirt
+Farmland
+Gravel
+Podzol
+Mycelium
+Crimson Nylium
+Warped Wart Block
+Ice
+Blue Ice
+Packed Ice
+Snow Block
+Obsidian
+Crying Obsidian
+Bookshelf
+Soul Sand
+Soul Soil
+Glowstone
+Magma Block
+Bone Block
+Dried Kelp Block
+Bee Nest
+Beehive
+Honey Block
+Honey Comb Block
+Oak Wood
+Oak Log
+Oak Planks
+Spruce Wood
+Spruce Log
+Spruce Planks
+Birch Wood
+Birch Log
+Birch Planks
+Jungle Wood
+Jungle Log
+Jungle Planks
+Acacia Wood
+Acacia Log
+Acacia Planks
+Dark Oak Wood
+Dark Oak Log
+Dark Oak Planks
+Cobblestone
+Stone
+Smooth Stone
+Stone Bricks
+Cracked Stone Bricks
+Chiseled Stone Bricks
+Mossy Cobblestone
+Mossy Stone Bricks
+Andesite
+Polished Andesite
+Diorite
+Polished Diorite
+Granite
+Polished Granite
+Sandstone
+Chiseled Sandstone
+Cut Sandstone
+Smooth Sandstone
+Cut Red Sandstone
+Red Sandstone
+Chiseled Red Sandstone
+Smooth Red Sandstone
+Prismarine
+Sea Lantern
+Prismarine Bricks
+Dark Prismarine
+Netherrack
+Nether Bricks
+Nether Wart Block
+Red Nether Bricks
+Quartz Block
+Chiseled Quartz Block
+Quartz Bricks
+Quartz Pillar
+Purpur Block
+Purpur Pillar
+Bricks
+Crimson Hyphae
+Crimson Stem
+Crimson Planks
+Warped Hyphae
+Warped Stem
+Warped Planks
+Gilded Blackstone
+Blackstone
+Chiseled Polished Blackstone
+Polished Blackstone
+Polished Blackstone Bricks
+Cracked Polished Blackstone Bricks
+Basalt
+Polished Basalt
+End Stone
+End Stone Bricks
+Brown Mushroom Block
+Red Mushroom Block
+Mushroom Stem
+Tube Coral Block
+Brain Coral Block
+Bubble Coral Block
+Fire Coral Block
+Horn Coral Block
+Dead Tube Coral Block
+Dead Brain Coral Block
+Dead Bubble Coral Block
+Dead Fire Coral Block
+Dead Horn Coral Block
+Polished Deepslate
+Deepslate Bricks
+Chiseled Deepslate
+Cobbled Deepslate
+Deepslate Tiles
+Black Wool
+Gray Wool
+Blue Wool
+Cyan Wool
+Light Blue Wool
+Purple Wool
+Magenta Wool
+Light Gray Wool
+White Wool
+Pink Wool
+Red Wool
+Brown Wool
+Orange Wool
+Yellow Wool
+Lime Wool
+Green Wool
+Black Carpet
+Gray Carpet
+Blue Carpet
+Cyan Carpet
+Light Blue Carpet
+Purple Carpet
+Magenta Carpet
+Light Gray Carpet
+White Carpet
+Pink Carpet
+Red Carpet
+Brown Carpet
+Orange Carpet
+Yellow Carpet
+Lime Carpet
+Green Carpet
+Black Terracotta
+Gray Terracotta
+Blue Terracotta
+Cyan Terracotta
+Light Blue Terracotta
+Purple Terracotta
+Magenta Terracotta
+Light Gray Terracotta
+White Terracotta
+Pink Terracotta
+Red Terracotta
+Brown Terracotta
+Orange Terracotta
+Yellow Terracotta
+Lime Terracotta
+Green Terracotta
+Black Concrete
+Gray Concrete
+Blue Concrete
+Cyan Concrete
+Light Blue Concrete
+Purple Concrete
+Magenta Concrete
+Light Gray Concrete
+White Concrete
+Pink Concrete
+Red Concrete
+Brown Concrete
+Orange Concrete
+Yellow Concrete
+Lime Concrete
+Green Concrete
+Black Glazed Terracotta
+Gray Glazed Terracotta
+Blue Glazed Terracotta
+Cyan Glazed Terracotta
+Light Blue Glazed Terracotta
+Purple Glazed Terracotta
+Magenta Glazed Terracotta
+Light Gray Glazed Terracotta
+White Glazed Terracotta
+Pink Glazed Terracotta
+Red Glazed Terracotta
+Brown Glazed Terracotta
+Orange Glazed Terracotta
+Yellow Glazed Terracotta
+Lime Glazed Terracotta
+Green Glazed Terracotta
+Coal Block
+Redstone Block
+Lapis Block
+Iron Block
+Gold Block
+Amethyst Block
+Copper Block
+Cobweb
+Pumpkin
+Melon
+Shroomlight

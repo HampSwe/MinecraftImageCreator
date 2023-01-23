@@ -1,0 +1,49 @@
+Snow Block
+Oak Planks
+Oak Slab
+Spruce Planks
+Spruce Slab
+Birch Planks
+Birch Slab
+Jungle Planks
+Jungle Slab
+Acacia Planks
+Acacia Slab
+Dark Oak Planks
+Dark Oak Slab
+Cobblestone
+Cobblestone Slab
+Stone
+Stone Slab
+Mossy Cobblestone
+Mossy Cobblestone Slab
+Andesite
+Andesite Slab
+Polished Andesite
+Polished Andesite Slab
+Diorite
+Diorite Slab
+Polished Diorite
+Polished Diorite Slab
+Granite
+Granite Slab
+Polished Granite
+Polished Granite Slab
+Prismarine Slab
+Netherrack
+Black Carpet
+Gray Carpet
+Blue Carpet
+Cyan Carpet
+Light Blue Carpet
+Purple Carpet
+Magenta Carpet
+Light Gray Carpet
+White Carpet
+Pink Carpet
+Red Carpet
+Brown Carpet
+Orange Carpet
+Yellow Carpet
+Lime Carpet
+Green Carpet

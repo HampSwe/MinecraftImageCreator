@@ -1,0 +1,29 @@
+Snow Block
+Oak Planks
+Oak Slab
+Spruce Planks
+Spruce Slab
+Birch Planks
+Birch Slab
+Jungle Planks
+Jungle Slab
+Acacia Planks
+Acacia Slab
+Dark Oak Planks
+Dark Oak Slab
+Cobblestone
+Cobblestone Slab
+Stone
+Stone Slab
+Mossy Cobblestone
+Mossy Cobblestone Slab
+Andesite
+Andesite Slab
+Polished Andesite Slab
+Diorite
+Diorite Slab
+Polished Diorite Slab
+Granite
+Granite Slab
+Polished Granite Slab
+Netherrack

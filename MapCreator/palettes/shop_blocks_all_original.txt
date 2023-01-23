@@ -1,0 +1,108 @@
+127, 178, 56
+Grass Block
+151, 109, 77
+Dirt, Coarse Dirt, Farmland, Jungle Wood, Jungle Planks, Jungle Slab, Granite, Granite Slab, Polished Granite, Polished Granite Slab, Brown Mushroom Block
+112, 112, 112
+Gravel, Acacia Log, Cobblestone, Cobblestone Slab, Stone, Stone Slab, Smooth Stone, Smooth Stone Slab, Stone Bricks, Stone Brick Slab, Cracked Stone Bricks, Chiseled Stone Bricks, Mossy Cobblestone, Mossy Cobblestone Slab, Mossy Stone Bricks, Mossy Stone Brick Slab, Andesite, Andesite Slab, Polished Andesite, Polished Andesite Slab
+129, 86, 49
+Podzol, Oak Log, Spruce Wood, Spruce Planks, Spruce Slab, Jungle Log
+127, 63, 178
+Mycelium, Bubble Coral Block, Purple Wool, Purple Carpet, Purple Concrete, Purple Glazed Terracotta, Amethyst Block
+189, 48, 49
+Crimson Nylium
+20, 180, 133
+Warped Wart Block
+160, 160, 255
+Ice, Blue Ice, Packed Ice
+255, 255, 255
+Snow Block, White Wool, White Carpet, White Concrete, White Glazed Terracotta
+25, 25, 25
+Obsidian, Crying Obsidian, Gilded Blackstone, Blackstone, Blackstone Slab, Chiseled Polished Blackstone, Polished Blackstone, Polished Blackstone Brick Slab, Polished Blackstone Bricks, Cracked Polished Blackstone Bricks, Basalt, Polished Basalt, Black Wool, Black Carpet, Black Concrete, Black Glazed Terracotta, Coal Block
+143, 119, 72
+Bookshelf, Beehive, Oak Wood, Oak Planks, Oak Slab
+102, 76, 51
+Soul Sand, Soul Soil, Spruce Log, Dark Oak Wood, Dark Oak Log, Dark Oak Planks, Dark Oak Slab, Brown Wool, Brown Carpet, Brown Concrete, Brown Glazed Terracotta
+247, 233, 163
+Glowstone, Bone Block, Birch Wood, Birch Planks, Birch Slab, Sandstone, Chiseled Sandstone, Cut Sandstone, Smooth Sandstone, Sandstone Slab, Cut Sandstone Slab, End Stone, End Stone Bricks, End Stone Brick Slab
+112, 2, 0
+Magma Block, Netherrack, Nether Bricks, Nether Brick Slab, Red Nether Bricks, Red Nether Brick Slab
+102, 127, 51
+Dried Kelp Block, Green Wool, Green Carpet, Green Concrete, Green Glazed Terracotta
+229, 229, 51
+Bee Nest, Horn Coral Block, Yellow Wool, Yellow Carpet, Yellow Concrete, Yellow Glazed Terracotta
+216, 127, 51
+Honey Block, Honey Comb Block, Acacia Planks, Acacia Slab, Cut Red Sandstone, Red Sandstone, Chiseled Red Sandstone, Smooth Red Sandstone, Red Sandstone Slab, Cut Red Sandstone Slab, Orange Wool, Orange Carpet, Orange Concrete, Orange Glazed Terracotta, Copper Block, Pumpkin
+255, 252, 245
+Birch Log, Diorite, Diorite Slab, Polished Diorite, Polished Diorite Slab, Sea Lantern, Quartz Block, Quartz Slab, Chiseled Quartz Block, Quartz Bricks, Quartz Pillar
+76, 76, 76
+Acacia Wood, Dead Tube Coral Block, Dead Brain Coral Block, Dead Bubble Coral Block, Dead Fire Coral Block, Dead Horn Coral Block, Gray Wool, Gray Carpet, Gray Concrete, Gray Glazed Terracotta
+76, 127, 153
+Prismarine, Prismarine Slab, Cyan Wool, Cyan Carpet, Cyan Concrete, Cyan Glazed Terracotta
+92, 219, 213
+Prismarine Bricks, Prismarine Brick Slab, Dark Prismarine, Dark Prismarine Slab
+153, 51, 51
+Nether Wart Block, Bricks, Brick Slab, Red Mushroom Block, Fire Coral Block, Red Wool, Red Carpet, Red Concrete, Red Glazed Terracotta, Shroomlight
+178, 76, 216
+Purpur Block, Purpur Pillar, Purpur Slab, Magenta Wool, Magenta Carpet, Magenta Concrete, Magenta Glazed Terracotta
+92, 25, 29
+Crimson Hyphae
+148, 63, 97
+Crimson Stem, Crimson Planks, Crimson Slab
+86, 44, 62
+Warped Hyphae
+58, 142, 140
+Warped Stem, Warped Planks, Warped Slab
+199, 199, 199
+Mushroom Stem, Cobweb
+51, 76, 178
+Tube Coral Block, Blue Wool, Blue Carpet, Blue Concrete, Blue Glazed Terracotta
+242, 127, 165
+Brain Coral Block, Pink Wool, Pink Carpet, Pink Concrete, Pink Glazed Terracotta
+100, 100, 100
+Cobbled Deepslate Slab, Polished Deepslate, Polished Deepslate Slab, Deepslate Bricks, Deepslate Brick Slab, Chiseled Deepslate, Cobbled Deepslate, Deepslate Tiles, Deepslate Tile Slab
+102, 153, 216
+Light Blue Wool, Light Blue Carpet, Light Blue Concrete, Light Blue Glazed Terracotta
+153, 153, 153
+Light Gray Wool, Light Gray Carpet, Light Gray Concrete, Light Gray Glazed Terracotta
+127, 204, 25
+Lime Wool, Lime Carpet, Lime Concrete, Lime Glazed Terracotta, Melon
+37, 22, 16
+Black Terracotta
+57, 41, 35
+Gray Terracotta
+76, 62, 92
+Blue Terracotta
+87, 92, 92
+Cyan Terracotta
+112, 108, 138
+Light Blue Terracotta
+122, 73, 88
+Purple Terracotta
+149, 87, 108
+Magenta Terracotta
+135, 107, 98
+Light Gray Terracotta
+209, 177, 161
+White Terracotta
+160, 77, 78
+Pink Terracotta
+142, 60, 46
+Red Terracotta
+76, 50, 35
+Brown Terracotta
+159, 82, 36
+Orange Terracotta
+186, 133, 36
+Yellow Terracotta
+103, 117, 53
+Lime Terracotta
+76, 82, 42
+Green Terracotta
+255, 0, 0
+Redstone Block
+74, 128, 255
+Lapis Block
+167, 167, 167
+Iron Block
+250, 238, 77
+Gold Block

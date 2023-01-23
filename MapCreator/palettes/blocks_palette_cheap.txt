@@ -1,0 +1,64 @@
+255, 255, 255
+White Wool, White Glazed Terracotta
+216, 127, 51
+Orange Wool, Glazed Terracotta
+178, 76, 216
+Magenta Wool, Magenta Glazed Terracotta
+102, 153, 216
+Light Blue Wool, Light Blue Glazed Terracotta
+229, 229, 51
+Yellow Wool, Yellow Glazed Terracotta
+127, 204, 25
+Lime Wool, Lime Glazed Terracotta
+242, 127, 165
+Pink Wool, Pink Glazed Terracotta
+76, 76, 76
+Gray Wool, Gray Glazed Terracotta
+153, 153, 153
+Light Gray Wool, Light Gray Glazed Terracotta
+76, 127, 153
+Cyan Wool, Cyan Glazed Terracotta
+127, 63, 178
+Purple Wool, Purple Glazed Terracotta
+51, 76, 178
+Blue Wool, Blue Glazed Terracotta
+102, 76, 51
+Brown Wool, Brown Glazed Terracotta
+102, 127, 51
+Green Wool, Green Glazed Terracotta
+153, 51, 51
+Red Wool, Red Glazed Terracotta
+25, 25, 25
+Black Wool, Black Glazed Terracotta
+209, 177, 161
+White Terracotta
+159, 82, 36
+Orange Terracotta
+149, 87, 108
+Magenta Terracotta
+112, 108, 138
+Light Blue Terracotta
+186, 133, 36
+Yellow Terracotta
+103, 117, 53
+Lime Terracotta
+160, 77, 78
+Pink Terracotta
+57, 41, 35
+Gray Terracotta
+135, 107, 98
+Light Gray Terracotta
+87, 92, 92
+Cyan Terracotta
+122, 73, 88
+Purple Terracotta
+76, 62, 92
+Blue Terracotta
+76, 50, 35
+Brown Terracotta
+76, 82, 42
+Green Terracotta
+142, 60, 46
+Red Terracotta
+37, 22, 16
+Black Terracotta

@@ -1,0 +1,6 @@
+255, 255, 255
+White Wool
+25, 25, 25
+Black Wool
+76, 76, 76
+Gray Wool

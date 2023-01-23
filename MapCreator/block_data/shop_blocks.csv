@@ -1,0 +1,250 @@
+grass block,"37,5"
+dirt,15
+coarse dirt,15
+farmland,"18,75"
+gravel,"37,5"
+podzol,15
+mycelium,"37,5"
+crimson nylium,"56,25"
+warped wart block,"112,5"
+blue ice,15
+ice,15
+packed ice,30
+snow block,"1,5"
+obsidian,100
+crying obsidian,200
+bookshelf,75
+soul sand,"112,5"
+soul soil,"112,5"
+glowstone,15
+magma block,130
+bone block,150
+dried kelp block,"112,5"
+bee nest,150
+beehive,100
+honey block,75
+honey comb block,130
+oak wood,15
+oak log,"11,25"
+oak planks,"2,8125"
+oak slab,"1,40625"
+spruce wood,15
+spruce log,"11,25"
+spruce planks,"2,8125"
+spruce slab,"1,40625"
+birch wood,15
+birch log,"11,25"
+birch planks,"2,8125"
+birch slab,"1,40625"
+jungle wood,15
+jungle log,"11,25"
+jungle planks,"2,8125"
+jungle slab,"1,40625"
+acacia wood,15
+acacia log,"11,25"
+acacia planks,"2,8125"
+acacia slab,"1,40625"
+dark oak wood,15
+dark oak log,"11,25"
+dark oak planks,"2,8125"
+dark oak slab,"1,40625"
+cobblestone,"2,62"
+cobblestone slab,"1,31"
+stone,"3,75"
+stone slab,"1,875"
+smooth stone,"22,5"
+smooth stone slab,"11,25"
+stone bricks,"18,75"
+stone brick slab,"9,375"
+cracked stone bricks,"18,75"
+chiseled stone bricks,"26,25"
+mossy cobblestone,"3,75"
+mossy cobblestone slab,"1,875"
+mossy stone bricks,"22,5"
+mossy stone brick slab,"11,25"
+andesite,3
+andesite slab,"1,5"
+polished andesite,6
+polished andesite slab,3
+diorite,3
+diorite slab,"1,5"
+polished diorite,6
+polished diorite slab,3
+granite,3
+granite slab,"1,5"
+polished granite,6
+polished granite slab,3
+sandstone,"18,75"
+chiseled sandstone,"18,75"
+cut sandstone,"18,75"
+smooth sandstone,"26,75"
+sandstone slab,"9,375"
+cut sandstone slab,"9,375"
+cut red sandstone,"26,25"
+red sandstone,"37,5"
+chiseled red sandstone,"37,5"
+smooth red sandstone,"26,25"
+red sandstone slab,"18,75"
+cut red sandstone slab,"13,125"
+prismarine,"11,25"
+prismarine slab,"5,625"
+sea lantern,"112,5"
+prismarine bricks,"22,5"
+prismarine brick slab,"11,25"
+dark prismarine,"22,5"
+dark prismarine slab,"11,25"
+netherrack,"3,75"
+nether bricks,"18,75"
+nether brick slab,"9,375"
+nether wart block,100
+red nether bricks,100
+red nether brick slab,50
+quartz block,60
+quartz slab,30
+chiseled quartz block,60
+quartz bricks,60
+quartz pillar,60
+purpur block,"18,75"
+purpur pillar,"18,75"
+purpur slab,"9,375"
+bricks,"22,5"
+brick slab,"11,25"
+crimson hyphae,75
+crimson stem,75
+crimson planks,"18,75"
+crimson slab,"9,375"
+warped hyphae,"93,75"
+warped stem,"93,75"
+warped planks,"23,4375"
+warped slab,"11,71875"
+gilded blackstone,100
+blackstone,50
+blackstone slab,25
+chiseled polished blackstone,50
+polished blackstone,50
+polished blackstone brick slab,25
+polished blackstone bricks,50
+cracked polished blackstone bricks,50
+basalt,50
+polished basalt,40
+end stone,50
+end stone bricks,40
+end stone brick slab,20
+brown mushroom block,30
+red mushroom block,30
+mushroom stem,30
+tube coral block,45
+brain coral block,45
+bubble coral block,45
+fire coral block,45
+horn coral block,45
+dead tube coral block,"26,25"
+dead brain coral block,"26,25"
+dead bubble coral block,"26,25"
+dead fire coral block,"26,25"
+dead horn coral block,"26,25"
+cobbled deepslate slab,100
+polished deepslate,200
+polished deepslate slab,100
+deepslate bricks,100
+deepslate brick slab,50
+polished deepslate,100
+deepslate bricks,100
+chiseled deepslate,100
+cobbled deepslate,100
+deepslate tiles,100
+deepslate brick slab,50
+deepslate tile slab,50
+cobbled deepslate slab,50
+polished deepslate slab,50
+black wool,10
+gray wool,10
+blue wool,10
+cyan wool,10
+light blue wool,10
+purple wool,10
+magenta wool,10
+light gray wool,10
+white wool,10
+pink wool,10
+red wool,10
+brown wool,10
+orange wool,10
+yellow wool,10
+lime wool,10
+green wool,10
+black carpet,"6,666667"
+gray carpet,"6,666667"
+blue carpet,"6,666667"
+cyan carpet,"6,666667"
+light blue carpet,"6,666667"
+purple carpet,"6,666667"
+magenta carpet,"6,666667"
+light gray carpet,"6,666667"
+white carpet,"6,666667"
+pink carpet,"6,666667"
+red carpet,"6,666667"
+brown carpet,"6,666667"
+orange carpet,"6,666667"
+yellow carpet,"6,666667"
+lime carpet,"6,666667"
+green carpet,"6,666667"
+black terracotta,10
+gray terracotta,10
+blue terracotta,10
+cyan terracotta,10
+light blue terracotta,10
+purple terracotta,10
+magenta terracotta,10
+light gray terracotta,10
+white terracotta,10
+pink terracotta,10
+red terracotta,10
+brown terracotta,10
+orange terracotta,10
+yellow terracotta,10
+lime terracotta,10
+green terracotta,10
+black concrete,100
+gray concrete,100
+blue concrete,100
+cyan concrete,100
+light blue concrete,100
+purple concrete,100
+magenta concrete,100
+light gray concrete,100
+white concrete,100
+pink concrete,100
+red concrete,100
+brown concrete,100
+orange concrete,100
+yellow concrete,100
+lime concrete,100
+green concrete,100
+black glazed terracotta,150
+gray glazed terracotta,150
+blue glazed terracotta,150
+cyan glazed terracotta,150
+light blue glazed terracotta,150
+purple glazed terracotta,150
+magenta glazed terracotta,150
+light gray glazed terracotta,150
+white glazed terracotta,150
+pink glazed terracotta,150
+red glazed terracotta,150
+brown glazed terracotta,150
+orange glazed terracotta,150
+yellow glazed terracotta,150
+lime glazed terracotta,150
+green glazed terracotta,150
+coal block,90
+redstone block,135
+lapis block,135
+iron block,630
+gold block,720
+amethyst block,100
+copper block,675
+cobweb,"26,25"
+pumpkin,20
+melon,20
+shroomlight,15
